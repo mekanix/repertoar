@@ -1,14 +1,9 @@
 repertoar
 =========
 
-Metallica - Enter Sandman
-
-Metallica - Sad But True
-
-Planet Of Zeus - Macho Libre
-
-Billy Idol - Speed
-
-Disturbed - Inside The Fire
-
-Pantera - I'm Broken
+1. Metallica - Enter Sandman
+2. Metallica - Sad But True
+3. Planet Of Zeus - Macho Libre
+4. Billy Idol - Speed
+5. Disturbed - Inside The Fire
+6. Pantera - I'm Broken
