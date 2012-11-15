@@ -7,3 +7,4 @@ repertoar
 4. Billy Idol - Speed
 5. Disturbed - Inside The Fire
 6. Pantera - I'm Broken
+7. Pantera - Revolution Is My Name
