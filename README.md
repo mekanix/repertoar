@@ -8,3 +8,4 @@ repertoar
 5. Disturbed - Inside The Fire
 6. Pantera - I'm Broken
 7. Pantera - Revolution Is My Name
+8. Motorhead - Ace Of Spades
