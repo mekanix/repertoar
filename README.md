@@ -10,3 +10,4 @@ repertoar
  7. Pantera - Revolution Is My Name
  8. Motorhead - Ace Of Spades
  9. Godsmack - Awake
+ 10. Meso - Rizlu Imaš
