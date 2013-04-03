@@ -11,3 +11,5 @@ repertoar
  8. Motorhead - Ace Of Spades
  9. Godsmack - Awake
  10. Meso - Rizlu Imaš
+ 11. Eyesburn - Sun
+ 12. Black Label Society - Concrete Jungle
