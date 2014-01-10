@@ -9,6 +9,7 @@ repertoar
  6. Eyesburn - Sun
  7. Black Label Society - Concrete Jungle
  8. Slipknot - Duality
+ 9. Guns N Roses - Mr Brownstone
 
 
 maybe
