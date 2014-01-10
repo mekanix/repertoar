@@ -13,6 +13,7 @@ repertoar
  10. Dubioza - Zatvor + DLM - Dobar Dan
  11. Lenny Kravitz - Are You Gonna Go My Way
  12. Tool - 46 & 2
+ 13. Planet of Zeus - Vanity Suit
 
 
 maybe
