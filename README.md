@@ -19,6 +19,7 @@ repertoar
  16. RED FANG - Prehistoric Dog
  17. Megadeth-The Disintegrators
  18. Annihilator - Clown Parade
+ 19. Annihilator - Speed
 
 
 maybe
