@@ -14,7 +14,8 @@ repertoar
  11. Dubioza - Zatvor + DLM - Dobar Dan
  12. Lenny Kravitz - Are You Gonna Go My Way
  13. Tool - 46 & 2
- 14. Machine Head- Slanderous 
+ 14. Machine Head- Slanderous
+ 15. 357 - Dan Svetog Ilije
 
 
 maybe
