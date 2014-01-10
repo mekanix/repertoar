@@ -11,10 +11,13 @@ repertoar
  8. Slipknot - Duality
  9. Guns N Roses - Mr Brownstone
  10. Dubioza - Zatvor + DLM - Dobar Dan
+ 11. Lenny Kravitz - Are You Gonna Go My Way
+ 12. Tool - 46 & 2
 
 
 maybe
 -----
  1. Pantera - I'm Broken
- 1. Pantera - Revolution Is My Name
- 1. Meso - Rizlu Imaš
+ 2. Pantera - Revolution Is My Name
+ 3. Meso - Rizlu Imaš
+ 4. Tool - Jambi
