@@ -2,12 +2,13 @@ repertoar
 =========
 
  1. Planet Of Zeus - Macho Libre
- 1. Billy Idol - Speed
- 1. Disturbed - Inside The Fire
- 1. Motorhead - Ace Of Spades
- 1. Godsmack - Awake
- 1. Eyesburn - Sun
- 1. Black Label Society - Concrete Jungle
+ 2. Billy Idol - Speed
+ 3. Disturbed - Inside The Fire
+ 4. Motorhead - Ace Of Spades
+ 5. Godsmack - Awake
+ 6. Eyesburn - Sun
+ 7. Black Label Society - Concrete Jungle
+ 8. Slipknot - Duality
 
 
 maybe
