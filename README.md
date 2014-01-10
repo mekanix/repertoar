@@ -10,6 +10,7 @@ repertoar
  7. Black Label Society - Concrete Jungle
  8. Slipknot - Duality
  9. Guns N Roses - Mr Brownstone
+ 10. Dubioza - Zatvor + DLM
 
 
 maybe
